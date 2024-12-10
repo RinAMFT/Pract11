@@ -1,0 +1,7 @@
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\obj\Debug\ConsoleApp20.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\DELL\Documents\информатика\Project\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
