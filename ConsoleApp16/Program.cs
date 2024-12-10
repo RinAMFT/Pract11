@@ -10,13 +10,13 @@ namespace ConsoleApp16
     {
         static void Main(string[] args)
         {
-            int a1 = InPut("a1 = ");
-            int b1 = InPut("b1 = ");
-            int c1 = InPut("c1 = ");
+            int a1 = Input("a1 = ");
+            int b1 = Input("b1 = ");
+            int c1 = Input("c1 = ");
 
-            int a2 = InPut("a2 = ");
-            int b2 = InPut("b2 = ");
-            int c2 = InPut("c2 = ");
+            int a2 = Input("a2 = ");
+            int b2 = Input("b2 = ");
+            int c2 = Input("c2 = ");
 
             int per1 = Perimeter(a1, b1, c1);
             int per2 = Perimeter(a2, b2, c2);
@@ -32,7 +32,7 @@ namespace ConsoleApp16
 
         }
 
-        static int InPut(string message)
+        static int Input(string message)
         {
             Console.Write(message);
             return int.Parse(Console.ReadLine());
